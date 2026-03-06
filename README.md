@@ -26,7 +26,7 @@ The AI uses a recursive Minimax algorithm to explore the game tree. It assigns v
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/htrhd/Tic-Tac-Toe-AI.git](https://github.com/htrhd/Tic-Tac-Toe-AI.git)
    ```
 
 2. **Install dependencies:**
